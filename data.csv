@@ -1,0 +1,31 @@
+id,app_label,model
+1,blog,post
+2,admin,logentry
+3,auth,permission
+4,auth,group
+5,auth,user
+6,contenttypes,contenttype
+7,sessions,session
+8,users,profile
+9,blog,comment
+auth_group                  blog_post                 
+auth_group_permissions      blog_post_likes           
+auth_permission             django_admin_log          
+auth_user                   django_content_type       
+auth_user_groups            django_migrations         
+auth_user_user_permissions  django_session            
+blog_comment                users_profile             
+auth_group                  blog_post                 
+auth_group_permissions      blog_post_likes           
+auth_permission             django_admin_log          
+auth_user                   django_content_type       
+auth_user_groups            django_migrations         
+auth_user_user_permissions  django_session            
+blog_comment                users_profile             
+auth_group                  blog_post                 
+auth_group_permissions      blog_post_likes           
+auth_permission             django_admin_log          
+auth_user                   django_content_type       
+auth_user_groups            django_migrations         
+auth_user_user_permissions  django_session            
+blog_comment                users_profile             
